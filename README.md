@@ -1,4 +1,4 @@
-###Hello There!
+## Hello There! I am a high school student from Colorado.
 <!--
 **laraleo/laraleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
