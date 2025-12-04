@@ -1,5 +1,4 @@
-## I am a student in Colorado. I am in 
-
+###
 <!--
 **laraleo/laraleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
